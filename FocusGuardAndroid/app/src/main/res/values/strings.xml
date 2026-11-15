@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Focus Guard</string>
-    <string name="accessibility_description">Applies the focus rules selected in Focus Guard by checking foreground app transitions and YouTube\'s visible Shorts-player interface.</string>
-</resources>
