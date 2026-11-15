@@ -1,5 +1,0 @@
-
-<resources>
-    <string name="app_name">Focus Guard</string>
-    <string name="accessibility_description">Checks the foreground app and visible YouTube accessibility labels to apply the focus rules you enable.</string>
-</resources>
